@@ -35,7 +35,6 @@ I'm a third year student pursuing Bachelors's in Computer Science 🎓 from Chan
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="sass"></code>
 -->
 
-### Projects and Dev Stuffs:
 
   <summary><b>⚡ Github Stats</b></summary>
 
