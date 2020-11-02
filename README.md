@@ -39,7 +39,7 @@ I'm a third year student pursuing Bachelors's in Computer Science 🎓 from Chan
 
   <summary><b>⚡ Github Stats</b></summary>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nalin88&show_icons=true&hide_border=true" />
+<img align="right" height="180em" src="https://github-readme-stats.vercel.app/api?username=nalin88&show_icons=true&hide_border=true" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nalin88&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 
 
