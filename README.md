@@ -8,7 +8,7 @@
 
 I'm a third year student pursuing Bachelors's in Computer Science 🎓 from Chandigarh Group of Colleges . I'm a passionate learner who's always willing to learn and work across various programming languages. I love to explore new technologies and leverage them to solve real-life problems. I'm currently into Web & Android Development and working on my Data Structures and Algorithms.
 
-<img align="right" height="220" alt="" src="https://kcitcomputersolutions.com/wp-content/uploads/2020/06/website.gif" />
+<img align="right" height="210" alt="" src="https://kcitcomputersolutions.com/wp-content/uploads/2020/06/website.gif" />
 
 ### Talking about Personal Stuffs:
 
@@ -17,7 +17,7 @@ I'm a third year student pursuing Bachelors's in Computer Science 🎓 from Chan
 - 🚀 &nbsp; I’m currently learning Full Stack Development.
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
 - 📫 &nbsp; How to reach me: nalinnishant.020@gmail.com
-<hr />
+
 
 ### Languages and Tools:
 
