@@ -14,7 +14,7 @@ I'm a third year student pursuing Bachelors's in Computer Science 🎓 from Chan
 ### Talking about Personal Stuffs:
 
 - 🛠 &nbsp; I’m currently working with Java, PHP, Laravel, <br /> Javascript, Flutter, Mysql.
-- <g-emoji class="g-emoji" alias="1st_place_medal" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f947.png">🥇</g-emoji> &nbsp; Check my problem solving skills on <code><a target="_blank" rel="noopener noreferrer" href="https://github.com/nalin88/nalin88/blob/main/logo/hackerrank.png"><img src="https://github.com/nalin88/nalin88/raw/main/logo/hackerrank.png" style="max-width:100%;" height="20"></a></code> <a href="https://www.hackerrank.com/nalinnishant_020" rel="nofollow">@HackerRank</a>.
+- <g-emoji class="g-emoji" alias="1st_place_medal" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f947.png">🥇</g-emoji> &nbsp; Check my problem solving skills on <code><a target="_blank" rel="noopener noreferrer" href="https://github.com/nalin88/nalin88/blob/main/logo/hackerrank.png"><img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" style="max-width:100%;" height="20"></a></code> <a href="https://www.hackerrank.com/nalinnishant_020" rel="nofollow">@HackerRank</a>.
 - 🚀 &nbsp; I’m currently learning Full Stack Development.
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
 - 📫 &nbsp; How to reach me: nalinnishant.020@gmail.com
