@@ -18,6 +18,7 @@ I'm a third year student pursuing Bachelors's in Computer Science 🎓 from Chan
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
 - 📫 &nbsp; How to reach me: nalinnishant.020@gmail.com
 <hr />
+
 ### Languages and Tools:
 
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="cpp"></code>
