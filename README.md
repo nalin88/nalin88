@@ -10,7 +10,7 @@ I'm a third year student pursuing Bachelors's in Computer Science 🎓 from Chan
 
 <div align="right">
   <center>
-<img height="240" width="400" alt="" src="https://remakelearning.org/wp-content/uploads/2020/01/122.gif" />
+<img height="240" width="380" alt="" src="https://remakelearning.org/wp-content/uploads/2020/01/122.gif" />
   </center>
   </div>
 
