@@ -8,8 +8,11 @@
 
 I'm a third year student pursuing Bachelors's in Computer Science 🎓 from Chandigarh Group of Colleges . I'm a passionate learner who's always willing to learn and work across various programming languages. I love to explore new technologies and leverage them to solve real-life problems. I'm currently into Web & Android Development and working on my Data Structures and Algorithms.
 
-
-<img align="right" height="250" width="395" alt="" src="https://remakelearning.org/wp-content/uploads/2020/01/122.gif" />
+<div align="right">
+  <center>
+<img height="240" width="400" alt="" src="https://remakelearning.org/wp-content/uploads/2020/01/122.gif" />
+  </center>
+  </div>
 
 ### Talking about Personal Stuffs:
 
