@@ -9,7 +9,7 @@
 I'm a third year student pursuing Bachelors's in Computer Science 🎓 from Chandigarh Group of Colleges . I'm a passionate learner who's always willing to learn and work across various programming languages. I love to explore new technologies and leverage them to solve real-life problems. I'm currently into Web & Android Development and working on my Data Structures and Algorithms.
 
 
-<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
+<img align="right" height="250" width="375" alt="" src="https://miro.medium.com/max/1600/1*gReLR6hZjwyBxHmfLN1AVw.gif" />
 
 ### Talking about Personal Stuffs:
 
